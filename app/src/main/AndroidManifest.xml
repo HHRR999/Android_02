@@ -64,7 +64,8 @@
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name=".Ch14Activity1"></activity>
+        <activity android:name=".Ch14Activity1" />
+        <activity android:name=".Ch15Activity1"></activity>
     </application>
 
 </manifest>
